@@ -1,2 +1,2 @@
 [build]
-functions = "netlify-lambda-hello"
+functions = "./functions"
